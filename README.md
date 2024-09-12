@@ -1,2 +1,9 @@
-**Those are My codes during the Bootcamp**
-**i tried to add more line of codes inorder to increase the accuracy and to learn more**
+
+---
+
+# **SDAIA ML Bootcamp Assignments**  
+During the SDAIA ML bootcamp, I completed multiple assignments. 
+
+I expanded my code to enhance accuracy and enhance my understanding of machine learning techniques.
+
+---
